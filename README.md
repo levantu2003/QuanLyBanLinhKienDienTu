@@ -1,5 +1,9 @@
 # Môn công nghệ phần mềm (nhóm 5 người)
+<h2>Ngôn ngữ sử dụng trong project:</h2>
 
++ C#
++ T-SQL
+  
 <h2>Nội dung được phân công và hoàn thành:</h2>
 
 + Thiết kế cổng đăng nhập, đăng ký cho nhân viên bán hàng
